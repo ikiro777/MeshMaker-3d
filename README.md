@@ -2,7 +2,9 @@ MeshMaker 3D - Loja Virtual
 
 Loja virtual de modelos 3D, filamentos, impressoras e acessórios, feita em Vue.js (com `<script setup>`), sem bibliotecas externas e sem Vue Router.
 
-**Equipe:** [Ryan 04213577], [Brendon 4213310], [Felipe 04213566]
+**Equipe:** [Ryan Fukuda 04213577], [Brendon Machado 04213310], [Felipe Souza 04213566]
+Curso: Analise e Desenvolvimento de Sistema
+Turno: Manhã
 
 Funcionalidades
 
